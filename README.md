@@ -1,3 +1,3 @@
 # Scoring-System
 
-#Scoring sysyem for a school tournament
+# Scoring sysyem for a school tournament
